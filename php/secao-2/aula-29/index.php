@@ -3,5 +3,5 @@
 
     echo                    "Testando espaços em branco";
     echo "I am King";
-    echo "Jesus is king ";
+    echo "Jesus is king! ";
 ?>
