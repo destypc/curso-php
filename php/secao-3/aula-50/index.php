@@ -10,7 +10,8 @@ class Pessoa
 }
 $matheus = new Pessoa();
 
-$matheus->nome = "Matheus";
+$matheus->nome = "Matheus
+";
 
 echo $matheus->nome;
 

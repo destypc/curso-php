@@ -1,6 +1,13 @@
 {
-    "workbench.colorCustomizations": {
-        "minimap.background": "#00000000",
-        "scrollbar.shadow": "#00000000"
+  "workbench.colorCustomizations": {
+    "minimap.background": "#00000000",
+    "scrollbar.shadow": "#00000000"
+  },
+  "folder-color.pathColors": [
+    {
+      "folderPath": "curso-php\\php\\secao-3\\",
+      "color": "foldercolorizer.color_00d7ff",
+      "isFolderOnly": true
     }
+  ]
 }
