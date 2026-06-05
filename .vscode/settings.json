@@ -6,8 +6,18 @@
   "folder-color.pathColors": [
     {
       "folderPath": "curso-php\\php\\secao-3\\",
-      "color": "foldercolorizer.color_00d7ff",
-      "isFolderOnly": true
+      "color": "foldercolorizer.color_00ff5f",
+      "badge": "3"
+    },
+    {
+      "folderPath": "curso-php\\php\\secao-2\\",
+      "color": "foldercolorizer.color_00afff",
+      "badge": "2"
+    },
+    {
+      "folderPath": "curso-php\\php\\secao-1\\",
+      "color": "foldercolorizer.color_ff0000",
+      "badge": "1"
     }
   ]
 }
