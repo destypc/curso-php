@@ -11,7 +11,7 @@
     },
     {
       "folderPath": "curso-php\\php\\secao-2\\",
-      "color": "foldercolorizer.color_00afff",
+      "color": "foldercolorizer.color_0087ff",
       "badge": "2"
     },
     {
@@ -28,6 +28,26 @@
       "folderPath": "curso-php\\php\\secao-5\\",
       "color": "foldercolorizer.color_ffaf00",
       "badge": "5"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-1-desafio\\",
+      "color": "foldercolorizer.color_ff0000"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-2-desafio\\",
+      "color": "foldercolorizer.color_0087ff"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-3-desafio\\",
+      "color": "foldercolorizer.color_00ff00"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-4-desafio\\",
+      "color": "foldercolorizer.color_875fd7"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-5-desafio\\",
+      "color": "foldercolorizer.color_ffaf00"
     }
   ]
 }
