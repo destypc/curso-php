@@ -48,6 +48,15 @@
     {
       "folderPath": "curso-php\\php\\desafios\\secao-5-desafio\\",
       "color": "foldercolorizer.color_ffaf00"
+    },
+    {
+      "folderPath": "curso-php\\php\\secao-6\\",
+      "color": "foldercolorizer.color_d700d7",
+      "badge": "6"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-6-desafio\\",
+      "color": "foldercolorizer.color_d700d7"
     }
   ]
 }
