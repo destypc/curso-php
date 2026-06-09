@@ -5,27 +5,51 @@
   },
   "folder-color.pathColors": [
     {
-      "folderPath": "curso-php\\php\\secao-1\\",
+      "folderPath": "curso-php\\php\\secoes\\secao-1",
       "badge": "1️⃣"
     },
     {
-      "folderPath": "curso-php\\php\\secao-2\\",
+      "folderPath": "curso-php\\php\\secoes\\secao-2",
       "badge": "2️⃣"
     },
     {
-      "folderPath": "curso-php\\php\\secao-3\\",
+      "folderPath": "curso-php\\php\\secoes\\secao-3",
       "badge": "3️⃣"
     },
     {
-      "folderPath": "curso-php\\php\\secao-4\\",
+      "folderPath": "curso-php\\php\\secoes\\secao-4",
       "badge": "4️⃣"
     },
     {
-      "folderPath": "curso-php\\php\\secao-5\\",
+      "folderPath": "curso-php\\php\\secoes\\secao-5",
       "badge": "5️⃣"
     },
     {
-      "folderPath": "curso-php\\php\\secao-6\\",
+      "folderPath": "curso-php\\php\\secoes\\secao-6",
+      "badge": "6️⃣"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-1-desafio\\",
+      "badge": "1️⃣"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-2-desafio\\",
+      "badge": "2️⃣"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-3-desafio\\",
+      "badge": "3️⃣"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-4-desafio\\",
+      "badge": "4️⃣"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-5-desafio\\",
+      "badge": "5️⃣"
+    },
+    {
+      "folderPath": "curso-php\\php\\desafios\\secao-6-desafio\\",
       "badge": "6️⃣"
     }
   ]
