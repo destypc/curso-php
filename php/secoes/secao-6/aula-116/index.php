@@ -1,17 +1,32 @@
 <?php 
 
- $x = 0;
+$dia = "segunda";
 
- switch($x) {
+if ($dia == "segunda") {
+    echo "Começo da semana";
+} elseif ($dia == "sexta") {
+    echo "Sextou!";
+} elseif ($dia == "domingo") {
+    echo "Descanso";
+}
 
-    case 0:
-        echo "X é igual a 0 <BR>";
+$dia1 = "segunda";
+
+switch ($dia1) {
+    case "segunda":
+        echo "Começo da semana";
         break;
-    case 1:
-        echo "X é igual 1 <BR>";
+
+    case "sexta":
+        echo "Sextou!";
         break;
+
+    case "domingo":
+        echo "Descanso";
+        break;
+
     default:
-        echo "X não é igual a nenhum dos valores mencionados <BR>";
- }
+        echo "Dia inválido";
+}
 
 ?>
