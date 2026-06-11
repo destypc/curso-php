@@ -2,7 +2,7 @@
 
 $arr = ["Enzo", "Pontes", "Do", "Nascimento"];
 
-$imp = implode(",", $arr);
+$imp = implode(", ", $arr);
 
 echo $imp;
     
