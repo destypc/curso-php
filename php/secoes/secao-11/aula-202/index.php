@@ -9,9 +9,3 @@ if (array_key_exists("nome", $arr)) {
 
     echo "A key existe dentro do array";
 }
-
-if (isset($arr,['teste'])) {
-
-    echo "A key existe dentro do array";
-    
-}
