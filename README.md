@@ -62,10 +62,10 @@ curso-php/
 
 - [x] Ambiente configurado
 - [x] Primeiros exercícios
-- [ ] Estruturas condicionais
-- [ ] Estruturas de repetição
-- [ ] Funções
-- [ ] Arrays
+- [x] Estruturas condicionais
+- [x] Estruturas de repetição
+- [x] Funções
+- [x] Arrays
 - [ ] Formulários
 - [ ] Banco de Dados
 
