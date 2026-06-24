@@ -51,6 +51,7 @@ curso-php/
 ## 🚀 Tecnologias Utilizadas
 
 - PHP
+- SQL
 - HTML5
 - Git
 - GitHub
